@@ -1,0 +1,17 @@
+{
+    "Name": "Thermoregulatory Responses Reticulospinal system",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Imaging in the hindbrain and midbrain of nac -/-; Elavl3-H2B:GCaMP6s +/- larval zebrafish after reticulospinal backfills with Texas-Red Dextran during random wave temperature stimulus presentation",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
